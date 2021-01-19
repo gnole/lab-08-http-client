@@ -1,5 +1,3 @@
-// Copyright 2020 Your Name <your_email>
-
 #include "Client.hpp"
 
 Client::Client(int argc, char* argv[]) : argc_(argc), argv_(argv) {}

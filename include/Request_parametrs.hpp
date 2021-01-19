@@ -1,5 +1,3 @@
-// Copyright 2020 Your Name <your_email>
-
 #ifndef INCLUDE_REQUEST_PARAMETRS_HPP_
 #define INCLUDE_REQUEST_PARAMETRS_HPP_
 #include <string>

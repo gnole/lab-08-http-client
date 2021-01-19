@@ -1,5 +1,3 @@
-// Copyright 2020 Your Name <your_email>
-
 #ifndef INCLUDE_CLIENT_HPP_
 #define INCLUDE_CLIENT_HPP_
 #include <boost/asio/connect.hpp>

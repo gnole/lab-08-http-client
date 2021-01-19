@@ -1,5 +1,3 @@
-// Copyright 2020 Your Name <your_email>
-
 #include <Client.hpp>
 
 int main(int argc, char* argv[]) {
